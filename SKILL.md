@@ -1,7 +1,7 @@
 ---
 name: native-macos-menubar
 description: "Build native macOS menu bar apps — the kind Apple ships for WiFi, Bluetooth, Battery, etc. Covers MenuBarExtra/NSStatusItem, system materials, SF Symbols, semantic colors, native popover layout, and the designlang HTML-reference workflow for extracting design tokens from a reference UI."
-trigger: /menubar
+trigger: /native-menubar
 ---
 
 # /menubar — Native macOS Menu Bar App

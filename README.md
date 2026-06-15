@@ -55,13 +55,13 @@ You should see `native-macos-menubar` in the list.
 In any Claude Code session, trigger the skill:
 
 ```
-/menubar
+/native-menubar
 ```
 
 Or reference it inline:
 
 ```
-Use the /menubar skill to build a menu bar app that shows system stats.
+Use the /native-menubar skill to build a menu bar app that shows system stats.
 ```
 
 ## What the skill covers
